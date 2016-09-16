@@ -3,12 +3,12 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{760C24F4-8231-4BE3-AEBB-0043CC209FE5}</ProjectGuid>
+    <ProjectGuid>{E5D8A8D8-4051-43CF-B7DF-D35D4396D825}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>VS1315DIFF.Tests</RootNamespace>
     <AssemblyName>VS1315DIFF.Tests</AssemblyName>
-    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <IsCodedUITest>False</IsCodedUITest>
@@ -53,7 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\VS1315DIFF\VS1315DIFF.csproj">
-      <Project>{81DB3020-646E-481D-8AC7-1FDE37161D7A}</Project>
+      <Project>{BBA7B29F-E66B-40DE-BD42-5BB0C7D10351}</Project>
       <Name>VS1315DIFF</Name>
     </ProjectReference>
   </ItemGroup>
