@@ -1,1 +1,0 @@
-﻿<%@ Application Codebehind="Global.asax.cs" Inherits="VS1315DIFF.Global" Language="C#" %>
